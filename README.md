@@ -7,6 +7,8 @@ Louise has recently had a kickstarter fundraiser for her play Fever, and would l
 
 ## Analysis and Challenges
 
+Refer to Excel Workbook [Kickstarter_Challenge](https://github.com/catsdata/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx) for the following Analysis. 
+
 ### Analysis of Outcomes Based on Launch Date
 On the "Theater Outcomes by Launch Date" sheet, a pivot chart was created based on "Date Created" months; analyzing successful, failed, and canceled campaigns; and filtered down to theater campaigns only.   A filter on Years is also provided should it need to be further narrowed down.   A line chart has been created showing counts along the y axis and months along the x axis.   
 
