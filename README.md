@@ -28,19 +28,22 @@ The following difficulties were encountered:
 
 ## Results
 
-###Outcomes Based on Launch Date conclusions:  
-	Failure rates tend to be consistent month by month and not driven by launch date
-	The most sucessful theater campaigns are launched between May and July.
+### Outcomes Based on Launch Date conclusions:  
+	*Failure rates tend to be consistent month by month and not driven by launch date
+	*The most sucessful theater campaigns are launched between May and July.
 
-###Outcomes Based on Goals conclusions:
-	Successful "play" campaigns with less than a $5000 goal make up near half of all play kickstarters
-	Goals of $45000 and greater have the highest chance of failure
+### Outcomes Based on Goals conclusions:
+	*Successful "play" campaigns with less than a $5000 goal make up near half of all play kickstarters
+	*Goals of $45000 and greater have the highest chance of failure
 
-###Limitations of the dataset:
-	The provided dataset has only 4000+ campaigns.  Knowing the popularity of Kickstarter, and that this is global data, we have to 	assume we were provided only a sample dataset.  In the data provided, near 25% of the campaigns were plays.  This does not seem 	reasonable or logical for all global Kickstarters.  The 2009 & 2017 data provided are only a few months a piece and could skew 	monthly/annual results.  In outcomes based on goals - graphing by percentage - outliers are likely making a heavy impact as 	over 96% of plays analyzed are under $25000.  
+### Limitations of the dataset:
+	*The provided dataset has only 4000+ campaigns.  Knowing the popularity of Kickstarter, and that this is global data, we have to assume we were provided only a sample dataset.  
+	*In the data provided, near 25% of the campaigns were plays.  This does not seem reasonable or logical for all global Kickstarters.  
+	*The 2009 & 2017 data provided are only a few months a piece and could skew monthly/annual results.  
+	*In outcomes based on goals - graphing by percentage - outliers are likely making a heavy impact as over 96% of plays analyzed are under $25000.  
 	
-###Other possible tables and/or graphs that may prove helpful:
-	Lousie's campaign came close to goal fairly quickly; therefore comparing goals on campaigns with similar lengths of run time may paint a more accurate picture.  
-Since we know that most successful play campaigns kicked off in May through July data on goals for plays, a further dive into the details on those campaigns may be needed.
-All data is global and not filtered based on country applicable/comparable to Louise's campaign.  More details on her program would be needed to further analyze.
-	Outliers in the main data are skewing information.  Statistical analysis to remove outliers in data would be more accurate.  
+### Other possible tables and/or graphs that may prove helpful:
+	*Lousie's campaign came close to goal fairly quickly; therefore comparing goals on campaigns with similar lengths of run time may paint a more accurate picture.  
+	*Since we know that most successful play campaigns kicked off in May through July data on goals for plays, a further dive into the details on those campaigns may be needed.
+	*All data is global and not filtered based on country applicable/comparable to Louise's campaign.  More details on her program would be needed to further analyze.
+	*Outliers in the main data are skewing information.  Statistical analysis to remove outliers in data would be more accurate.  
