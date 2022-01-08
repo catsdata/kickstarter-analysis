@@ -12,12 +12,12 @@ Refer to Excel Workbook [Kickstarter_Challenge](https://github.com/catsdata/kick
 ### Analysis of Outcomes Based on Launch Date
 On the "Theater Outcomes by Launch Date" sheet, a pivot chart was created based on "Date Created" months; analyzing successful, failed, and canceled campaigns; and filtered down to theater campaigns only.   A filter on Years is also provided should it need to be further narrowed down.   A line chart has been created showing counts along the y axis and months along the x axis.   
 
-![Theater Outcomes by Launch Date](https://github.com/catsdata/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes by Launch Date](https://github.com/catsdata/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 On the "Outcomes Based on Goals" sheet, counts and percentages of Play only campaigns that were successful, failed or canceled were organized in a table based on Goal ranges in $5000 increments.  A line chart has been added to visualize the percentage of the outcomes along the y axus and monetary goal range along the x axis.  
 
-![Outcomes Based on Goals](https://github.com/catsdata/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/catsdata/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The following challenges were identified with the provided data file and requested output:  
